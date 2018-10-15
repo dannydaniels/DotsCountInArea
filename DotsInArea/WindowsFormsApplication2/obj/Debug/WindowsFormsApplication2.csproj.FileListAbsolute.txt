@@ -1,0 +1,19 @@
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.CodeAnalysisLog.xml
+C:\Users\dannydaniels\Documents\Visual Studio 2013\Projects\console2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.lastcodeanalysissucceeded
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Danny\Desktop\Desktop\Исходники\TextWorks\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
